@@ -12,6 +12,13 @@ You may modify any file or files *except* those in the `src/` directory.
 
 _You must follow these steps for your solution to be accepted_
 
+To run all the tests use 
+
+```
+npm start
+npm run cy:run
+```
+
 **Forking this repo is an immediate disqualification**
 
 How to attempt this challenge:
